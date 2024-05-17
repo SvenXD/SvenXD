@@ -1,4 +1,13 @@
-### Hi there 👋
+### I have no idea why i made a read me so imma copy ideas
+
+- 🔭 I’m currently working on stuff
+- 🌱 I’m currently learning stuff
+- 👯 I’m looking to collaborate on stuff
+- 🤔 I’m looking for help with stuff
+- 💬 Ask me about stuff
+- 📫 How to reach me: You cant
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play chess
 
 <!--
 **SvenXD/SvenXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
