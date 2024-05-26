@@ -1,4 +1,4 @@
-### I have no idea why i made a read me so imma copy ideas
+### In some planets, doorbells are illegal
 
 - 🔭 I’m currently working on stuff
 - 🌱 I’m currently learning stuff
