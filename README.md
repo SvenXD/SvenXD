@@ -1,13 +1,7 @@
-### wawa
+### Are you looking at my profile without following me?
 
-- 🔭 I’m currently working on stuff
-- 🌱 I’m currently learning stuff
-- 🔰 I’m looking to collaborate on stuff
-- 🤔 I’m looking for help with stuff
-- 💬 Ask me about stuff
-- 📫 How to reach me: You cant
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play chess
+![image](https://github.com/user-attachments/assets/d9f0f1de-e2aa-4fdb-99e0-1d5a38c43a9c)
+
 
 <!--
 **SvenXD/SvenXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
