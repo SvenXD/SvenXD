@@ -1,6 +1,6 @@
-### Are you looking at my profile without following me?
+### Greetings, hopefully you are having a wonderfull day :)
 
-![image](https://github.com/user-attachments/assets/d9f0f1de-e2aa-4fdb-99e0-1d5a38c43a9c)
+<!--![image](https://github.com/user-attachments/assets/d9f0f1de-e2aa-4fdb-99e0-1d5a38c43a9c)
 
 
 <!--
