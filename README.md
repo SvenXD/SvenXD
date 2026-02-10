@@ -1,10 +1,10 @@
-### Greetings, hopefully you are having a wonderfull day :)
+### Are you looking at my profile without following me?
 
-<!--![image](https://github.com/user-attachments/assets/d9f0f1de-e2aa-4fdb-99e0-1d5a38c43a9c)
+![image](https://github.com/user-attachments/assets/d9f0f1de-e2aa-4fdb-99e0-1d5a38c43a9c)
 
 
 <!--
-**SvenXD/SvenXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*SvenXD/SvenXD* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
